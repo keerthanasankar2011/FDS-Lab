@@ -1,4 +1,4 @@
-a) Create NumPy arrays from Python Data Structures, Intrinsic NumPy objects and Random Functions
+a)Create NumPy arrays from Python Data Structures, Intrinsic NumPy objects and Random Functions
 
 Get the data type of an array object
 PROGRAM:
